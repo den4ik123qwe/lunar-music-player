@@ -1,0 +1,90 @@
+{
+    "playlists": {
+        "Любимое": [
+            {
+                "url": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/4/0/ad4fa1206071c9525f16f0951fba2fba.mp3?hdnea=exp=1779951356~acl=/api/1/1/a/d/4/0/ad4fa1206071c9525f16f0951fba2fba.mp3*~data=user_id=0,application_id=42~hmac=50c974075a420d76b9af833262161c747c440e799c087efc1719ff3c1ab4c403",
+                "text": "Popular - Nada Surf",
+                "title": "Popular",
+                "artist": "Nada Surf",
+                "cover": "https://cdn-images.dzcdn.net/images/cover/967d9ff8976b791a63520d3e9742b517/250x250-000000-80-0-0.jpg"
+            },
+            {
+                "url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/5/0/a05df1458aaeccf30f6c86a48c50b875.mp3?hdnea=exp=1780016294~acl=/api/1/1/a/0/5/0/a05df1458aaeccf30f6c86a48c50b875.mp3*~data=user_id=0,application_id=42~hmac=f702e5a04c3ba9931d7be28159b1f68244ae1383ff367f50a37e02052997a099",
+                "text": "Popular Monster - Falling In Reverse",
+                "title": "Popular Monster",
+                "artist": "Falling In Reverse",
+                "cover": "https://cdn-images.dzcdn.net/images/cover/f8848a292687550d2c7b815e12e10e2b/250x250-000000-80-0-0.jpg"
+            }
+        ],
+        "123": [
+            {
+                "text": "Popular - Nada Surf",
+                "url": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/4/0/ad4fa1206071c9525f16f0951fba2fba.mp3?hdnea=exp=1780016294~acl=/api/1/1/a/d/4/0/ad4fa1206071c9525f16f0951fba2fba.mp3*~data=user_id=0,application_id=42~hmac=bfaae4737e974b21bcd85a6067c9e6e59b9eca84984d1ca1bcdf7d5f0e866f56",
+                "title": "Popular",
+                "artist": "Nada Surf",
+                "cover": "https://cdn-images.dzcdn.net/images/cover/967d9ff8976b791a63520d3e9742b517/250x250-000000-80-0-0.jpg"
+            },
+            {
+                "text": "Popular - Nada Surf",
+                "url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/b/0/7eb98115c7511c47aa3389ccf5ebe03b.mp3?hdnea=exp=1780016755~acl=/api/1/1/7/e/b/0/7eb98115c7511c47aa3389ccf5ebe03b.mp3*~data=user_id=0,application_id=42~hmac=415501cfc1e7d78a081d4d46eb379c7fa82f14885f8459ef09b6f91012e70b68",
+                "title": "Popular",
+                "artist": "Nada Surf",
+                "cover": "https://cdn-images.dzcdn.net/images/cover/65dfa95caa7d7e55a6566aec0cd5a18c/250x250-000000-80-0-0.jpg"
+            }
+        ],
+        "321": [
+            {
+                "text": "Popular - The Veronicas",
+                "url": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/4/0/9f46033479155af39b0027f6def211e2.mp3?hdnea=exp=1780016294~acl=/api/1/1/9/f/4/0/9f46033479155af39b0027f6def211e2.mp3*~data=user_id=0,application_id=42~hmac=2a27360c021182bd5197bbbe8bce245a44a90a307406957d140f51701d24f730",
+                "title": "Popular",
+                "artist": "The Veronicas",
+                "cover": "https://cdn-images.dzcdn.net/images/cover/0158bdc048323a6d68e2238c4fd9c881/250x250-000000-80-0-0.jpg"
+            }
+        ]
+    },
+    "recent": [
+        {
+            "url": "https://cdnt-preview.dzcdn.net/api/1/1/7/e/b/0/7eb98115c7511c47aa3389ccf5ebe03b.mp3?hdnea=exp=1780016755~acl=/api/1/1/7/e/b/0/7eb98115c7511c47aa3389ccf5ebe03b.mp3*~data=user_id=0,application_id=42~hmac=415501cfc1e7d78a081d4d46eb379c7fa82f14885f8459ef09b6f91012e70b68",
+            "text": "Popular - Nada Surf",
+            "title": "Popular",
+            "artist": "Nada Surf",
+            "cover": "https://cdn-images.dzcdn.net/images/cover/65dfa95caa7d7e55a6566aec0cd5a18c/250x250-000000-80-0-0.jpg"
+        },
+        {
+            "url": "https://cdnt-preview.dzcdn.net/api/1/1/9/f/4/0/9f46033479155af39b0027f6def211e2.mp3?hdnea=exp=1780016294~acl=/api/1/1/9/f/4/0/9f46033479155af39b0027f6def211e2.mp3*~data=user_id=0,application_id=42~hmac=2a27360c021182bd5197bbbe8bce245a44a90a307406957d140f51701d24f730",
+            "text": "Popular - The Veronicas",
+            "title": "Popular",
+            "artist": "The Veronicas",
+            "cover": "https://cdn-images.dzcdn.net/images/cover/0158bdc048323a6d68e2238c4fd9c881/250x250-000000-80-0-0.jpg"
+        },
+        {
+            "url": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/4/0/ad4fa1206071c9525f16f0951fba2fba.mp3?hdnea=exp=1780016294~acl=/api/1/1/a/d/4/0/ad4fa1206071c9525f16f0951fba2fba.mp3*~data=user_id=0,application_id=42~hmac=bfaae4737e974b21bcd85a6067c9e6e59b9eca84984d1ca1bcdf7d5f0e866f56",
+            "text": "Popular - Nada Surf",
+            "title": "Popular",
+            "artist": "Nada Surf",
+            "cover": "https://cdn-images.dzcdn.net/images/cover/967d9ff8976b791a63520d3e9742b517/250x250-000000-80-0-0.jpg"
+        },
+        {
+            "url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/5/0/a05df1458aaeccf30f6c86a48c50b875.mp3?hdnea=exp=1780016294~acl=/api/1/1/a/0/5/0/a05df1458aaeccf30f6c86a48c50b875.mp3*~data=user_id=0,application_id=42~hmac=f702e5a04c3ba9931d7be28159b1f68244ae1383ff367f50a37e02052997a099",
+            "text": "Popular Monster - Falling In Reverse",
+            "title": "Popular Monster",
+            "artist": "Falling In Reverse",
+            "cover": "https://cdn-images.dzcdn.net/images/cover/f8848a292687550d2c7b815e12e10e2b/250x250-000000-80-0-0.jpg"
+        },
+        {
+            "url": "https://cdnt-preview.dzcdn.net/api/1/1/a/d/4/0/ad4fa1206071c9525f16f0951fba2fba.mp3?hdnea=exp=1779951356~acl=/api/1/1/a/d/4/0/ad4fa1206071c9525f16f0951fba2fba.mp3*~data=user_id=0,application_id=42~hmac=50c974075a420d76b9af833262161c747c440e799c087efc1719ff3c1ab4c403",
+            "text": "Popular - Nada Surf",
+            "title": "Popular",
+            "artist": "Nada Surf",
+            "cover": "https://cdn-images.dzcdn.net/images/cover/967d9ff8976b791a63520d3e9742b517/250x250-000000-80-0-0.jpg"
+        },
+        {
+            "url": "https://cdnt-preview.dzcdn.net/api/1/1/a/0/5/0/a05df1458aaeccf30f6c86a48c50b875.mp3?hdnea=exp=1779951167~acl=/api/1/1/a/0/5/0/a05df1458aaeccf30f6c86a48c50b875.mp3*~data=user_id=0,application_id=42~hmac=e2aca1b0b1288ea4749f843a16b327f278381b4148f4d6daf556d68290ba1086",
+            "text": "Popular Monster - Falling In Reverse",
+            "title": "Popular Monster",
+            "artist": "Falling In Reverse",
+            "cover": "https://cdn-images.dzcdn.net/images/cover/f8848a292687550d2c7b815e12e10e2b/250x250-000000-80-0-0.jpg"
+        }
+    ],
+    "settings": {}
+}
